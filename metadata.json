@@ -1,0 +1,6 @@
+{
+  "name": "Imperial Marquee Islamabad",
+  "description": "Imperial Marquee Islamabad - Premier event venue for weddings, receptions, engagements, corporate events, and special occasions in Islamabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
